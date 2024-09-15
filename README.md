@@ -1,11 +1,8 @@
 <img src="https://github.com/Poorani-27/Poorani-27/blob/main/cover%20image.png" alt="Cover Image" width="100%">
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Embed+code&weight=1000&pause=1000&color=0013F7&random=false&width=750&lines=Hi+There!+I'm+SAI GANESH+DEVARASETTI+,+a+passionate+software+developer" alt="Typing SVG">
-  </a>
+  <img src="https://readme-typing-svg.demolab.com/?lines=Type+messages+everywhere!;Add+a+bio+to+your+profile!;Add+a+description+to+your+repo!;Make+your+readme+stand+out!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
 </p>
-=<h3 align = center><b>About Me  </b> </h3>
 
 ## <h3 align = center><b>About Me </b> </h3>
 
