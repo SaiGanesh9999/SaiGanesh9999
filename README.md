@@ -20,6 +20,9 @@
 
 - ⚡ Fun fact **I am a Developer, Coder, Editor**
 
+- 📄 Contact With Me:- Linkedin:- [[[https://drive.google.com/file/d/1oF5h_4UP_Eppssv1jzijopE1h5GY-rNp/view?usp=drive_link](https://www.linkedin.com/in/sai8899/)]
+                       Mail ID:- [[[saiganeshd6666@gmail.com](saiganeshd6666@gmail.com)]
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <div>
@@ -36,26 +39,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="firebase" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="canva" width="40" height="40"/>&nbsp;
 </div>
-
-### 🐍 Contribution snake
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rubadharsini&" alt="rubadharsini" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rubadharsini&show_icons=true&locale=en&layout=compact" alt="rubadharsini" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rubadharsini&show_icons=true&locale=en" alt="rubadharsini" /></p>
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/cseruba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cseruba" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/rubadharsini-saravanan-8a87aa24a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rubadharsini-saravanan-8a87aa24a" height="30" width="40" /></a>
-<a href="https://medium.com/@rubadharsini s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@rubadharsini s" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/meenu_creational" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="meenu_creational" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/@rubadharsini s" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="@rubadharsini s" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/@rubadharsini s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="@rubadharsini s" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/@rubacsue1q" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="@rubacsue1q" height="30" width="40" /></a>
-</p>
-
 
 ---
 
