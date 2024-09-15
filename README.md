@@ -39,6 +39,16 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="canva" width="40" height="40"/>&nbsp;
 </div>
 
+<h3 align="left">Certifications:</h3>
+<p align="left"> <br>
+- Certified By WiproTalentNext On JavaJ2EE:- https://cert.diceid.com/csr/cid/TYFNZr <br>
+- Certified By Mirosoft In Azure AI Engineer:- https://learn.microsoft.com/api/credentials/share/en-us/SAIGANESHDEVARASETTI-7759/AC58238DE80AC3F5?sharingId <br>
+- Certified By HackerRank In Python Basics:- https://drive.google.com/file/d/1cCkBiXmyi-vwstCO-Q73GHeM1sXCqO11/view?usp=sharing <br>
+- Certified By Cisco In C Essentials:- https://drive.google.com/file/d/1kKkZVwS6ZUsuyhnqTDxk_AfhJeLKaXqn/view?usp=share_link <br>
+- Certified By Oracle In Java Foundation:- https://drive.google.com/file/d/1APM4UUNTufIeUMD0pLAKNrsUcL2zGl3c/view <br>
+- Certified By Oracle IN DBMS Foundation:- https://drive.google.com/file/d/1aEPoHK-jktJPoPCX20DuJzwNBmU8RHfw/view?usp=sharing <br>
+- Certified By Forage In Accenture Data Analytics and Visualization:- https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Accenture%20North%20America/hzmoNKtzvAzXsEqx8_Accenture%20North%20America_7uBvaApr4CQEAuqFQ_1721815471625_completion_certificate.pdf 
+
 
 
 # 💻 Tech Stack:
