@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Embed+code&weight=1000&pause=1000&color=0013F7&random=false&width=750&lines=Hi+There!+I'm+POORANI+TAMILVASAN+,+a+passionate+software+developer" alt="Typing SVG">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Embed+code&weight=1000&pause=1000&color=0013F7&random=false&width=750&lines=Hi+There!+I'm+SAI GANESH+DEVARASETTI+,+a+passionate+software+developer" alt="Typing SVG">
   </a>
 </p>
 # 💫 About Me:
