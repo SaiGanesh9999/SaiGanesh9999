@@ -6,13 +6,13 @@
 
 ## <h3 align = center><b>About Me </b> </h3>
 
-- 🔭 I’m currently complete my Graduate on **BSC-ARTFICIAL INTELLIGENCE & ROBOTICS FROM ADIKAVI NANNAYA UNIVERSITY**
+- 🔭 I had completed my Graduation on **BSC-ARTFICIAL INTELLIGENCE & ROBOTICS FROM ADIKAVI NANNAYA UNIVERSITY**
 
-- 🌱 I’m currently learning **DATA STRUCTURE & ALGORITHM  with C++**
+- 🌱 I’m currently learning **ML Using Python**
 
-- 👨‍💻 All of my projects are available are at this github account
+- 👨‍💻 All of my projects are available at this github account
 
-- 💬 Ask me about **web Development, C, Java, Python, Mern Stack, Cyber security**
+- 💬 Ask me about **Web Development, C, Java, Python, Mern Stack, Cyber security**
 
 - 📫 How to reach me **saiganeshd6666@gmail.com**
 
