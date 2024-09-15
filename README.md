@@ -1,7 +1,7 @@
 <img src="https://github.com/Poorani-27/Poorani-27/blob/main/cover%20image.png" alt="Cover Image" width="100%">
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Devarasetti+Sai+Ganesh!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+I+Am+Devarasetti+Sai+Ganesh!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
 </p>
 
 ## <h3 align = center><b>About Me </b> </h3>
@@ -42,13 +42,12 @@
 <h3 align="left">Certifications:</h3>
 <p align="left"> <br>
 - Certified By WiproTalentNext On JavaJ2EE:- https://cert.diceid.com/csr/cid/TYFNZr <br>
-- Certified By Mirosoft In Azure AI Engineer:- https://learn.microsoft.com/api/credentials/share/en-us/SAIGANESHDEVARASETTI-7759/AC58238DE80AC3F5?sharingId <br>
+- Certified By Mirosoft In Azure AI Engineer:- https://lnkd.in/gX5tshct <br>
 - Certified By HackerRank In Python Basics:- https://drive.google.com/file/d/1cCkBiXmyi-vwstCO-Q73GHeM1sXCqO11/view?usp=sharing <br>
 - Certified By Cisco In C Essentials:- https://drive.google.com/file/d/1kKkZVwS6ZUsuyhnqTDxk_AfhJeLKaXqn/view?usp=share_link <br>
 - Certified By Oracle In Java Foundation:- https://drive.google.com/file/d/1APM4UUNTufIeUMD0pLAKNrsUcL2zGl3c/view <br>
 - Certified By Oracle IN DBMS Foundation:- https://drive.google.com/file/d/1aEPoHK-jktJPoPCX20DuJzwNBmU8RHfw/view?usp=sharing <br>
-- Certified By Forage In Accenture Data Analytics and Visualization:- https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Accenture%20North%20America/hzmoNKtzvAzXsEqx8_Accenture%20North%20America_7uBvaApr4CQEAuqFQ_1721815471625_completion_certificate.pdf 
-
+- Certified By Forage In Accenture Data Analytics and Visualization:- https://lnkd.in/g6jRKAYZ <br>
 
 
 # 💻 Tech Stack:
