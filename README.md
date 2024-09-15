@@ -40,7 +40,7 @@
 </div>
 
 <h3 align="left">Certifications:</h3>
-<p align="left"> <br>
+<p align="left">
 - Certified By WiproTalentNext On JavaJ2EE:- https://cert.diceid.com/csr/cid/TYFNZr <br>
   
 - Certified By Mirosoft In Azure AI Engineer:- https://lnkd.in/gX5tshct <br>
