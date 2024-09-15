@@ -22,7 +22,7 @@
 
 - 📄 Contact With Me:- Linkedin:- [[[(https://www.linkedin.com/in/sai8899/)](https://www.linkedin.com/in/sai8899/)] 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Programming Languages I Had Learned:</h3>
 <p align="left">
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>&nbsp;
