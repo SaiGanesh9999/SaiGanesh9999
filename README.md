@@ -5,8 +5,22 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Embed+code&weight=1000&pause=1000&color=0013F7&random=false&width=750&lines=Hi+There!+I'm+SAI GANESH+DEVARASETTI+,+a+passionate+software+developer" alt="Typing SVG">
   </a>
 </p>
-# 💫 About Me:
-I am an enthusiastic AI graduate with a passion for using technology to address real-world challenges. With a solid background in Artificial Intelligence and hands-on experience in project development, I have built a versatile skill set in programming, machine learning, and embedded systems.During my studies, I completed several impactful projects, such as a Real-Time Object Recognition system using the YoloV7 Machine Learning Engine and a Real-Time Location Tracker utilizing Geo-Location. These projects allowed me to apply my knowledge in practical scenarios and further develop my technical abilities.In addition to my academic projects, I hold several certifications that underscore my expertise in key areas. These include the Cisco Programming Essentials in C, Wipro TalentNext Java J2EE, and Azure AI Engineer, Hacker Rank Python Basic, Salesforce Developer, Oracle Java and DBMS. These certifications have reinforced my understanding and skills in programming and AI. My hands-on experience extends beyond academics through a long-term internship at HMI Engineering Services in Visakhapatnam, where I worked extensively with embedded systems. This role provided me with valuable insights into real-world applications and further deepened my technical knowledge.<br>Driven by a profound curiosity and eagerness to explore the vast potential of AI and technology, I am now seeking professional opportunities that will allow me to contribute effectively while continuing to advance my skills. I am excited to embark on a career where I can make a meaningful impact and grow both personally and professionally.<br><br>🌐 Socials:<br>Linkedin:- https://www.linkedin.com/in/sai8899/
+ ## <h3 align = center><b>About Me  </b> </h3>
+
+| ![Fit Image](https://github.com/Poorani-27/Poorani-27/blob/main/fit-removebg-preview%20(1).png) |Result-Oriented final year Computer Science Engineering student with a passion for coding and creating innovative solutions. 💻 🎓 Currently Completed the exciting journey towards earning my degree, I've honed my skills in C, C++, Python, Java, PHP, AI & ML and front-end technologies like HTML, CSS, and JavaScript. Actively seeking new opportunities! I'm on the lookout for a challenging job opportunity or an enriching internship where I can apply my knowledge, learn, and contribute to meaningful projects.🌐 <br> 🚀 As a self-motivated individual, I thrive on challenges and constantly strive for improvement. I'm enthusiastic about exploring new technologies, solving problems, and collaborating with like-minded individuals to build amazing things. My areas of expertise include Python for backend development and crafting delightful user experiences with HTML, CSS, and JavaScript on the front end. Whether it's developing efficient algorithms or designing pixel-perfect interfaces, I enjoy the entire spectrum of software development. 🛠️ <br> 🌱 Always eager to learn and adapt, I stay up-to-date with the latest industry trends and technologies. I believe in the power of continuous learning to stay ahead in the fast-paced world of tech. 📚 . 👨‍💻 Let's connect! I'm open to discussions, and of course, job or internship opportunities. Feel free to explore my repositories. |
+| --- | --- |
+ ## <h3 align = center><b>Skill Set </b> </h3>
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="python logo"  />
+  <img width="42" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
+  <img width="42" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css3 logo"  />
+  <img width="42" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
+  <img width="42" />
+ 
+
 
 
 # 💻 Tech Stack:
