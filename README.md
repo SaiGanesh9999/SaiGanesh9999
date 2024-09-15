@@ -1,3 +1,10 @@
+<img src="https://github.com/Poorani-27/Poorani-27/blob/main/cover%20image.png" alt="Cover Image" width="100%">
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Embed+code&weight=1000&pause=1000&color=0013F7&random=false&width=750&lines=Hi+There!+I'm+POORANI+TAMILVASAN+,+a+passionate+software+developer" alt="Typing SVG">
+  </a>
+</p>
 # 💫 About Me:
 I am an enthusiastic AI graduate with a passion for using technology to address real-world challenges. With a solid background in Artificial Intelligence and hands-on experience in project development, I have built a versatile skill set in programming, machine learning, and embedded systems.During my studies, I completed several impactful projects, such as a Real-Time Object Recognition system using the YoloV7 Machine Learning Engine and a Real-Time Location Tracker utilizing Geo-Location. These projects allowed me to apply my knowledge in practical scenarios and further develop my technical abilities.In addition to my academic projects, I hold several certifications that underscore my expertise in key areas. These include the Cisco Programming Essentials in C, Wipro TalentNext Java J2EE, and Azure AI Engineer, Hacker Rank Python Basic, Salesforce Developer, Oracle Java and DBMS. These certifications have reinforced my understanding and skills in programming and AI. My hands-on experience extends beyond academics through a long-term internship at HMI Engineering Services in Visakhapatnam, where I worked extensively with embedded systems. This role provided me with valuable insights into real-world applications and further deepened my technical knowledge.<br>Driven by a profound curiosity and eagerness to explore the vast potential of AI and technology, I am now seeking professional opportunities that will allow me to contribute effectively while continuing to advance my skills. I am excited to embark on a career where I can make a meaningful impact and grow both personally and professionally.<br><br>🌐 Socials:<br>Linkedin:- https://www.linkedin.com/in/sai8899/
 
