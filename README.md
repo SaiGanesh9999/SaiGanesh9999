@@ -42,11 +42,17 @@
 <h3 align="left">Certifications:</h3>
 <p align="left"> <br>
 - Certified By WiproTalentNext On JavaJ2EE:- https://cert.diceid.com/csr/cid/TYFNZr <br>
+  
 - Certified By Mirosoft In Azure AI Engineer:- https://lnkd.in/gX5tshct <br>
+
 - Certified By HackerRank In Python Basics:- https://drive.google.com/file/d/1cCkBiXmyi-vwstCO-Q73GHeM1sXCqO11/view?usp=sharing <br>
+
 - Certified By Cisco In C Essentials:- https://drive.google.com/file/d/1kKkZVwS6ZUsuyhnqTDxk_AfhJeLKaXqn/view?usp=share_link <br>
+
 - Certified By Oracle In Java Foundation:- https://drive.google.com/file/d/1APM4UUNTufIeUMD0pLAKNrsUcL2zGl3c/view <br>
+
 - Certified By Oracle IN DBMS Foundation:- https://drive.google.com/file/d/1aEPoHK-jktJPoPCX20DuJzwNBmU8RHfw/view?usp=sharing <br>
+
 - Certified By Forage In Accenture Data Analytics and Visualization:- https://lnkd.in/g6jRKAYZ <br>
 
 
