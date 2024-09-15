@@ -1,7 +1,7 @@
 <img src="https://github.com/Poorani-27/Poorani-27/blob/main/cover%20image.png" alt="Cover Image" width="100%">
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+I+Am+Devarasetti+Sai+Ganesh!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+I+Am+Devarasetti+Sai+Ganesh!<br>+Welcome+To+My+Github+Profile&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
 </p>
 
 ## <h3 align = center><b>About Me </b> </h3>
