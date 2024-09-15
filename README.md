@@ -19,8 +19,9 @@
   <img width="42" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
   <img width="42" />
- 
-
+  <img src="https://www.pngegg.com/en/png-byoxw" height="60" alt="javascript logo"  />
+  <img width="42" />
+https://www.pngegg.com/en/png-byoxw
 
 
 # 💻 Tech Stack:
