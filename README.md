@@ -20,8 +20,8 @@
 
 - ⚡ Fun fact **I am a Developer, Coder, Editor**
 
-- 📄 Contact With Me:- Linkedin:- [[[https://drive.google.com/file/d/1oF5h_4UP_Eppssv1jzijopE1h5GY-rNp/view?usp=drive_link](https://www.linkedin.com/in/sai8899/)]
-                       Mail ID:- [[[saiganeshd6666@gmail.com](saiganeshd6666@gmail.com)]
+- 📄 Contact With Me:- Linkedin:- [[[https://drive.google.com/file/d/1oF5h_4UP_Eppssv1jzijopE1h5GY-rNp/view?usp=drive_link](https://www.linkedin.com/in/sai8899/)] <br>
+                     -  Mail ID:- [[[saiganeshd6666@gmail.com](saiganeshd6666@gmail.com)]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
