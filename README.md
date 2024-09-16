@@ -22,7 +22,7 @@
 
 - ⚡ Fun fact **I am a Developer, Coder, Editor**
 
-- 📄 Contact With Me:- Linkedin:- [[[(https://www.linkedin.com/in/sai8899/)](https://www.linkedin.com/in/sai8899/)]
+- 📫 How to reach me: <br> 1. Linkedin:- https://www.linkedin.com/in/sai8899/ <br> 2. Mail:- saiganeshd6666@gmail.com <br> 3. Contact:- +91 8985379979 <br>
 
 <h3 align="left">Programming Languages I Had Learned:</h3>
 <p align="left">
