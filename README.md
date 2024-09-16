@@ -8,19 +8,19 @@
 
 - 🔭 I had completed my Graduation on **BSC-ARTFICIAL INTELLIGENCE & ROBOTICS FROM ADIKAVI NANNAYA UNIVERSITY**
 
-- 🌱 I’m currently learning **ML Using Python**
+- 🌱 I’m currently learning **ML Using Python.**
 
-- 👨‍💻 All of my projects are available at this github account
+- 👨‍💻 All my projects are available in this github account.
 
-- 💬 Ask me about **Web Development, C, Java, Python, Mern Stack, Cyber security**
+- 💬 Ask me about **Web Development, C, Java, Python, Mern Stack, Cyber security.**
 
-- 📫 How to reach me **saiganeshd6666@gmail.com**
+- 📫 How to reach me **saiganeshd6666@gmail.com.**
   
 - 📄 Know about my experiences [[https://drive.google.com/file/d/1oF5h_4UP_Eppssv1jzijopE1h5GY-rNp/view?usp=drive_link](https://drive.google.com/file/d/1vu2VO8xtq1KCjYpiTiej1vyaY5G0wAQa/view?usp=sharing)]
 
 - Certified by Wipro TalentNext, Microsoft, HackerRank, Infosys Sprigboard, Cisco, Oracle, Forage, Mepro Pearson.
 
-- ⚡ Fun fact **I am a Developer, Coder, Editor**
+- ⚡ Fun fact **I am a Developer, Coder, Editor.**
 
 - 📫 How to reach me: <br> 1. Linkedin:- https://www.linkedin.com/in/sai8899/ <br> 2. Mail:- saiganeshd6666@gmail.com <br> 3. Contact:- +91 8985379979 <br>
 
@@ -56,6 +56,19 @@
 - Certified By Oracle IN DBMS Foundation:- https://drive.google.com/file/d/1aEPoHK-jktJPoPCX20DuJzwNBmU8RHfw/view?usp=sharing <br>
 
 - Certified By Forage In Accenture Data Analytics and Visualization:- https://lnkd.in/g6jRKAYZ <br>
+
+<h3 align="left">Internships and Experiences:</h3>
+<p align="left">
+  
+- Google Cloud Arcade Facilitator Program Member. <br>
+
+- Interned as Embedded Systems Developer by HMI Engineering Services. <br>
+
+- Interned as Java Developer By Adhoc Network Technologies. <br>
+  
+- Interned as Salesforce Developer By AICTE. <br>
+
+- Interned In Web Development By BharatIntern. <br>
 
 
 # 💻 Tech Stack:
