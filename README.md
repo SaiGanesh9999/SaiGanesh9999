@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **saiganeshd6666@gmail.com.**
   
-- 📄 Know about my experiences [[[[https://drive.google.com/file/d/1oF5h_4UP_Eppssv1jzijopE1h5GY-rNp/view?usp=drive_link](https://drive.google.com/file/d/1O1KqNgmazCjgenpVUEU9M3m4AJl6JeKt/view?usp=sharing)]]]
+- 📄 Know about my experiences https://drive.google.com/file/d/1O1KqNgmazCjgenpVUEU9M3m4AJl6JeKt/view?usp=sharing
 
 - Certified by Wipro TalentNext, Microsoft, HackerRank, Infosys Sprigboard, Cisco, Oracle, Forage, Mepro Pearson.
 
@@ -64,6 +64,8 @@
 - Google Cloud Arcade Facilitator Program Member. <br>
 
 - Interned as Embedded Systems Developer by HMI Engineering Services. <br>
+
+- Interned In Palo Alto Cyber Security by Eduskills and AICTE. <br>
 
 - Interned as Java Developer By Adhoc Network Technologies. <br>
   
